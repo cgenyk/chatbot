@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "705d5da36285b093406ced92bf26c46c",
+    "pageAccessToken": "EAAaEqE8a5QUBAKkG0tj9tp51Xw7QzSaygfNIefT3LJqRlXhcbGWckhZCW0ZC9sJFncdyzFLyummz0rrZC7jnZC0jWpk19RMwONz8lxUjQlv1ZCbanZAtS2egIyy0OziZA4hiwTPCJbZBuwfZCXImDdoIdnpkAA1yCrrgYvf22eYSjyQZDZD",
+    "validationToken": "hellothere",
+    "serverURL": "https://github.com/cgenyk/chatbot"
 }
